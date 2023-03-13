@@ -7,6 +7,23 @@
     <title>Formulario</title>
 </head>
 <body>
-    
+    <form action="/procesar-formulario" method="post"></form>
+    <h1>Formulario de registro</h1>
+    <fieldset>
+        <legend>Nombre completo</legend>
+        <label for="nombre">Nombre:<input type="text" id="nombre" name="nombre" required></label>
+        <label for="apellidos">Apellidos:<input type="text" id="apellidos" name="apellidos" required></label>
+    </fieldset>
+    <fieldset>
+        <legend>E-mail y contraseña</legend>
+        <label for="correo">Correo electrónico:<input type="email" id="correo" name="correo" required></label>
+        <label for="contrasena">Contraseña:<input type="password" id="contrasena" name="contrasena" required pattern="[A-Za-z0-9]{8,}"></label>
+        <label for="confirmapass">Confirme contraseña:<input type="password" id="confirmapass" name="confirmapass" required pattern="[A-Za-z0-9]{8,}"></label>
+    <fieldset>
+    </form>
+</body>
+</html>
+
+    </fieldset>
 </body>
 </html>
