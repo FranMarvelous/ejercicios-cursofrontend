@@ -1,0 +1,90 @@
+/*MAIN*/
+main{
+    font-family: "Montserrat",sans-serif"
+}
+
+ol, p {
+    color: #666666;
+}
+
+/*TITULO*/
+h1{
+    color: #224baf;
+    margin-left: 20rem;
+    margin-bottom: 0%;
+}
+
+/*IMAGEN*/
+img {
+    margin-left: 20rem;
+    width: 540px;
+  
+    border: solid gainsboro 2px;
+    padding: 4px;
+}
+
+#bajada {
+    margin-left: 20rem;
+    width: 527px;
+    font-size: medium;
+}
+  
+/*LISTA*/
+ol {
+    list-style: none;
+    margin-left: 277px;
+    font-size: 17px;
+}
+
+li {
+    text-align: left;
+}
+
+span{
+    color: #224baf;
+}
+  
+/*TABLA*/
+h2 {
+    color: #224baf;
+    margin-left: 320px;
+    margin-bottom: 10px;
+}
+
+table {
+    font-size: 20px;
+    margin-left: 20rem;
+    width: 546px;
+    background-color: #c6d0e5;
+}
+
+  
+th {
+    background-color: #224baf;
+    color: white;
+    font-weight: lighter;
+    width: 20px;
+    padding: 10px;
+    font-size: 15px;
+}
+  
+tr {
+    background-color: white;
+    text-align: center;
+    height: 50px;
+}
+
+.alimento {
+    text-align: left;
+    background-color: #c6d0e5;
+    color: #224baf;
+    width: 50px;
+    border: solid 1px white;
+}
+
+  /*TEXTO PIE PAGINA*/
+section {
+    margin-left: 320px;
+    width: 505px;
+}
+  
