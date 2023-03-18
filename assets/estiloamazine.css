@@ -6,3 +6,12 @@ h1 {
     text-align: center;
     font-family: 'Baloo';
 }
+
+/* navbar */
+
+nav {
+    display: inline-block;
+    text-align: center;
+    font-family: 'Poppins';
+    color: black;
+}
