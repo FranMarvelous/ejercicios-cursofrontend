@@ -46,14 +46,12 @@ li {
 main{
     font-family: 'Poppins';
     color: black;
-    position: relative;
+    display:flex;
 }
 
 article{
     font-size: 14px;
-    display: inline-block;
-    width: 500px;
-    margin-left: 200px;
+    width: 80%;
 }
 
 #fotoriri {
@@ -62,12 +60,11 @@ article{
 
 aside {
     font-size: 16px;
-    display: inline-block;
-    width: 200px;
-    margin-left: 300px ;
+    width: 20%;
+    
 }
 
-#imgaside{
+aside#imgaside{
     width: 40px;
 }
 
