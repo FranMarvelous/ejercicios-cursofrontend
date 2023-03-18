@@ -68,6 +68,10 @@ aside {
     vertical-align: top;
 }
 
+#imgaside{
+    width: 100px;
+}
+
 /*Footer*/
 
 footer{
