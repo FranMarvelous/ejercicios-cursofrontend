@@ -42,10 +42,6 @@ li {
     font-family: 'Poppins';
 }
 
-.link :hover {
+.link:hover {
     color: limegreen;
-}
-
-.link :visited {
-    color: blueviolet;
 }
