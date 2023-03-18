@@ -52,7 +52,7 @@ h2 {
 }
 
 table {
-    font-size: 20px;
+    font-size: 15px;
     margin-left: 20rem;
     width: 546px;
     background-color: #c6d0e5;
@@ -79,7 +79,6 @@ tr {
     background-color: #c6d0e5;
     color: #224baf;
     width: 50px;
-    border: solid 1px white;
 }
 
   /*TEXTO PIE PAGINA*/
