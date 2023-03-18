@@ -46,13 +46,13 @@ li {
 main{
     font-family: 'Poppins';
     color: black;
+    position: relative;
 }
 
 article{
     font-size: 14px;
     display: inline-block;
-    border: 2px solid white;
-    width: 59%;
+    width: 500px;
 }
 
 #fotoriri {
@@ -61,11 +61,8 @@ article{
 
 aside {
     font-size: 16px;
-    border: 2px solid white;
     display: inline-block;
-    width: 40%;
-    margin-left: auto;
-    vertical-align: top;
+    width: 200px;
 }
 
 #imgaside{
@@ -78,4 +75,8 @@ footer{
     font-family: 'Poppins';
     color: rgb(49, 0, 128);
     font-size: 14px;
+}
+
+a{
+    color: black;
 }
