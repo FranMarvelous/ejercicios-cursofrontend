@@ -43,7 +43,7 @@ li {
 }
 
 /*Main*/
-main{
+main {
     font-family: 'Poppins';
     color: black;
     width: 100%;
@@ -52,7 +52,7 @@ main{
     overflow: hidden;
 }
 
-article{
+article {
     font-size: 14px;
     float: left;
     width: 70%;
@@ -70,18 +70,22 @@ aside {
     margin-top: 10%;
 }
 
-#imgaside{
-    width: 140px;
+#imgaside {
+    width: 80px;
 }
 
 /*Footer*/
 
-footer{
+footer {
     font-family: 'Poppins';
     color: rgb(49, 0, 128);
     font-size: 14px;
 }
 
-a{
+a {
     color: black;
+}
+
+a:hover {
+    color: limegreen;
 }
