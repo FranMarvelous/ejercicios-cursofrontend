@@ -67,10 +67,11 @@ aside {
     float: left;
     width: 25%;
     margin-left: 5%;
+    margin-top: 10%;
 }
 
 #imgaside{
-    width: 100px;
+    width: 140px;
 }
 
 /*Footer*/
