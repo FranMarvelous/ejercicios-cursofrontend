@@ -1,0 +1,10 @@
+/* header */
+
+#logoimg {
+    width: 150px;
+}
+
+header > h1 {
+    text-align: center;
+    font-family: 'Baloo';
+}
