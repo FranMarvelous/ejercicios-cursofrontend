@@ -37,11 +37,22 @@ li {
 }
 
 .link {
-    color: black;
+    color: rgb(49, 0, 128);
     text-decoration: none;
     font-family: 'Poppins';
 }
 
 .link:hover {
     color: limegreen;
+}
+
+/*Main*/
+article{
+    font-family: 'Poppins';
+    color: black;
+    font-size: 14px;
+}
+
+#fotoriri {
+    width: 500px;
 }
