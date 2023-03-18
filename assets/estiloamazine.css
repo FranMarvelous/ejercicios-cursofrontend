@@ -47,13 +47,16 @@ article{
     font-family: 'Poppins';
     color: black;
     font-size: 14px;
-    margin-left: 25%;
 }
 
 #fotoriri {
     width: 500px;
 }
 
-p{
-    max-width: 800px;
+/*Footer*/
+
+footer{
+    font-family: 'Poppins';
+    color: rgb(49, 0, 128);
+    font-size: 14px;
 }
