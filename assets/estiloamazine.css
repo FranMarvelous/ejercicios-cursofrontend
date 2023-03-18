@@ -1,7 +1,3 @@
-body{
-    margin: 0;
-}
-
 /* header */
 #logoimg {
     width: 150px;
@@ -51,8 +47,13 @@ article{
     font-family: 'Poppins';
     color: black;
     font-size: 14px;
+    margin-left: 25%;
 }
 
 #fotoriri {
     width: 500px;
+}
+
+p{
+    max-width: 800px;
 }
