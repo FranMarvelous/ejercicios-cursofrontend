@@ -53,6 +53,7 @@ article{
     font-size: 14px;
     display: inline-block;
     width: 500px;
+    margin-left: 200px;
 }
 
 #fotoriri {
@@ -63,10 +64,11 @@ aside {
     font-size: 16px;
     display: inline-block;
     width: 200px;
+    margin-left: 300px ;
 }
 
 #imgaside{
-    width: 100px;
+    width: 40px;
 }
 
 /*Footer*/
